@@ -4,9 +4,11 @@
 <h2 align="center">
   💻 Aluno da Generation: <br>
   👨🏾‍🎓 Cursando Analise Desenvolvimento de Sistemas:
-</h2>
+</h2><br/>
 
 
+<div align="center">
+  
 <a href="https://github.com/anuraghazra/github-readme-stats">
  <img height=185 align="center" src="https://github-readme-stats.vercel.app/api?username=Michel9406&rank_icon=github&theme=holi"/>
 </a>
@@ -14,9 +16,9 @@
  <img height=185 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michel9406&layout=compact&langs_count=7&theme=holi"/>
 
 
+</div>
 
-
-<div align="center">
+<div align="center"><br>
   
    <img align="flex" alt="michel-Java" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">   
    <img align="flex" alt="michel-SQL" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">                   
@@ -33,7 +35,7 @@
    <img align="flex" alt="michel-aws" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
          
           
-</div>
+</div><br/>
   
   ##
 
