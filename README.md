@@ -6,13 +6,13 @@
   👨🏾‍🎓 Cursando Analise Desenvolvimento de Sistemas:
 </h2>
 
-<div align="center">
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Michel9406&rank_icon=github&theme=holi"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michel9406&layout=compact&langs_count=7&theme=holi"/>
-</div>
+
 
 
 
