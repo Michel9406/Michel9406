@@ -2,8 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=500&height=90&lines=System.out.print(%22Hi+There!+%F0%9F%91%8B;I'm+Michel+Gonçalves+%F0%9F%91%A8%F0%9F%8F%BF%E2%80%8D%F0%9F%92%BB" /><br>
 
 <h2 align="center">
-  💻 Aluno da Generation: <br>
-  👨🏾‍🎓 Cursando Analise Desenvolvimento de Sistemas:
+  💻👨🏾‍🎓 Cursando Analise Desenvolvimento de Sistemas:
 </h2><br>
 
 
