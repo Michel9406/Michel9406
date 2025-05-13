@@ -1,49 +1,64 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=500&height=90&lines=System.out.print(%22Hi+There!+%F0%9F%91%8B;I'm+Michel+Gonçalves+%F0%9F%91%A8%F0%9F%8F%BF%E2%80%8D%F0%9F%92%BB" /><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=500&height=90&lines=System.out.print(%22Hi+There!+%F0%9F%91%8B;I'm+Michel+Gonçalves+%F0%9F%91%A8%F0%9F%8F%BF%E2%80%8D%F0%9F%92%BB" />
+</h1>
 
-<h2 align="center">
-  💻👨🏾‍🎓 Cursando Analise Desenvolvimento de Sistemas:
-</h2><br>
+<h2 align="center">💻👨🏾‍🎓 Cursando Análise e Desenvolvimento de Sistemas</h2>
 
-
-<div align="center">
-  
-<a href="https://github.com/anuraghazra/github-readme-stats">
- <img height=185 align="center" src="https://github-readme-stats.vercel.app/api?username=Michel9406&rank_icon=github&theme=holi"/>
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
- <img height=185 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michel9406&layout=compact&langs_count=7&theme=holi"/>
-
-
-</div><br>
-
-<div align="center"><br>
-  
-    
-   <img align="flex" alt="michel-Java" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">   
-   <img align="flex" alt="react-icon" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-   <img align="flex" alt="angular-icon" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-   <img align="flex" alt="michel-SQL" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">                   
-   <img align="flex" alt="michel-Ts" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-   <img align="flex" alt="michel-Js" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="flex" alt="michel-HTML" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="flex" alt="michel-CSS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   
-   <img align="flex" alt="michel-nodejs" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-   <img align="flex" alt="michel-spring" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />       
-   <img align="flex" alt="michel-insomnia" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original-wordmark.svg" />
-   <img align="flex" alt="michel-github" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
-   <img align="flex" alt="michel-git" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg">
-   <img align="flex" alt="michel-aws" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-           
-          
-</div><br/>
-  
-  ##
+---
 
 <div align="center">
- <a href="https://www.linkedin.com/in/michelgon%C3%A7alvess/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- <a href = "mailto:michel9406@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="185" src="https://github-readme-stats.vercel.app/api?username=Michel9406&rank_icon=github&theme=holi"/>
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michel9406&layout=compact&langs_count=7&theme=holi"/>
+  </a>
+</div>
+
+---
+
+### 🚀 Tecnologias & Ferramentas
+
+<div align="center">
+  <!-- Backend -->
+  <img alt="Java" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
+  <img alt="Spring" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"/>
+  <img alt="Node.js" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>
+  <img alt="Python" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
+
+  <!-- Frontend -->
+  <img alt="React" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/>
+  <img alt="Angular" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/>
+  <img alt="TypeScript" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg"/>
+  <img alt="JavaScript" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
+  <img alt="HTML" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img alt="CSS" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+
+  <!-- Banco de Dados e APIs -->
+  <img alt="MySQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
+  <img alt="Insomnia" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original-wordmark.svg"/>
+
+  <!-- DevOps & Ferramentas -->
+  <img alt="AWS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+  <img alt="GitHub" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>
+  <img alt="Git" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"/>
+</div>
+
+---
+
+### 📫 Contato
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/michelgon%C3%A7alvess/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:michel9406@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-DarkRed?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://discord.com/channels/@me" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+</div>
   
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Michel9406/Michel9406/output/github-contribution-grid-snake-dark.svg">
