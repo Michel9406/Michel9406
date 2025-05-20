@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=500&height=90&lines=System.out.print(%22Hi+There!+%F0%9F%91%8B;I'm+Michel+Gonçalves+%F0%9F%91%A8%F0%9F%8F%BF%E2%80%8D%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=500&height=90&lines=System.out.print(%22Hi+There!+%F0%9F%91%8B%22);I'm+Michel+Gonçalves+%F0%9F%91%A8%F0%9F%8F%BF%E2%80%8D%F0%9F%92%BB" alt="Typewriter greeting" />
 </h1>
 
 <h2 align="center">💻👨🏾‍🎓 Cursando Análise e Desenvolvimento de Sistemas</h2>
@@ -8,10 +8,10 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="185" src="https://github-readme-stats.vercel.app/api?username=Michel9406&rank_icon=github&theme=holi"/>
+    <img height="185" src="https://github-readme-stats.vercel.app/api?username=Michel9406&rank_icon=github&theme=holi" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michel9406&layout=compact&langs_count=7&theme=holi"/>
+    <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michel9406&layout=compact&langs_count=7&theme=holi" alt="Top Languages"/>
   </a>
 </div>
 
@@ -50,21 +50,20 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/michelgon%C3%A7alvess/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:michel9406@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-DarkRed?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-DarkRed?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </div>
-  
+
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Michel9406/Michel9406/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Michel9406/Michel9406/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Michel9406/Michel9406/output/github-contribution-grid-snake.svg">
 </picture>
-
-
-
