@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=500&height=90&lines=System.out.print(%22Hi+There!+%F0%9F%91%8B%22);I'm+Michel+Gonçalves+%F0%9F%91%A8%F0%9F%8F%BF%E2%80%8D%F0%9F%92%BB" alt="Typewriter greeting" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=500&height=90&lines=SSystem.out.print(%22Hi+There!+%F0%9F%91%8B%22);I'm+Michel+Gonçalves+%F0%9F%91%A8%F0%9F%8F%BF%E2%80%8D%F0%9F%92%BB" alt="Typewriter greeting" />
 </h1>
 
 <h2 align="center">💻👨🏾‍🎓 Cursando Análise e Desenvolvimento de Sistemas</h2>
