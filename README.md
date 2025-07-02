@@ -61,9 +61,15 @@
 </div>
 
 ---
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Michel9406/Michel9406/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Michel9406/Michel9406/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Michel9406/Michel9406/output/github-contribution-grid-snake.svg">
+  <img 
+    alt="Animação de uma cobra atravessando o grid de contribuições do GitHub de Michel9406"
+    src="https://raw.githubusercontent.com/Michel9406/Michel9406/output/github-contribution-grid-snake.svg"
+    width="100%"
+    height="auto"
+    loading="lazy"
+    style="display:block;margin:20px auto;max-width:800px;"
+  >
 </picture>
