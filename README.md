@@ -7,12 +7,16 @@
 ---
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Michel9406&rank_icon=github&theme=holi&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michel9406&layout=compact&langs_count=7&theme=holi" alt="Top Languages"/>
-  </a>
-
+  <img 
+    width="450"
+    src="https://github-readme-stats.vercel.app/api?username=Michel9406&rank_icon=github&theme=holi&show_icons=true&count_private=true&include_all_commits=true" 
+    alt="GitHub Stats"
+  />
+  <img 
+    width="350"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michel9406&layout=compact&langs_count=7&theme=holi" 
+    alt="Top Languages"
+  />
 </div>
 
 ---
