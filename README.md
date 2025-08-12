@@ -1,5 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=600&height=90&lines=System.out.print(%22Hi+There!+%F0%9F%91%8B%22);I'm+Michel+Gonçalves+%F0%9F%91%A8%F0%9F%8F%BF%E2%80%8D%F0%9F%92%BB" alt="Typewriter greeting" />
+
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=600&height=90&color=FFFF00&lines=System.out.print(%22Hi+There!+%F0%9F%91%8B%22);I'm+Michel+Gonçalves+%F0%9F%91%A8%F0%9F%8F%BF%E2%80%8D%F0%9F%92%BB" 
+    alt="Typewriter greeting" 
+  />
 </h1>
 
 <h2 align="center">💻👨🏾‍🎓 Cursando Análise e Desenvolvimento de Sistemas</h2>
@@ -9,15 +13,16 @@
 <div align="center">
   <img 
     width="450"
-    src="https://github-readme-stats.vercel.app/api?username=Michel9406&rank_icon=github&theme=holi&show_icons=true&count_private=true&include_all_commits=true&bg_color=000000" 
+    src="https://github-readme-stats.vercel.app/api?username=Michel9406&rank_icon=github&theme=holi&show_icons=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=FFFF00&icon_color=FFFF00" 
     alt="GitHub Stats"
   />
   <img 
     width="340"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michel9406&layout=compact&langs_count=7&theme=holi&bg_color=000000" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michel9406&layout=compact&langs_count=7&theme=holi&bg_color=000000&title_color=FFFF00&icon_color=FFFF00" 
     alt="Top Languages"
   />
 </div>
+
 
 ---
 
@@ -32,7 +37,7 @@
 </div>
 ---
 
-### 📫 Contato
+### 📫 Contatos
 
 <div align="center">
   <a href="https://www.linkedin.com/in/michelgoncalvess/" target="_blank">
