@@ -9,12 +9,12 @@
 <div align="center">
   <img 
     width="450"
-    src="https://github-readme-stats.vercel.app/api?username=Michel9406&rank_icon=github&theme=holi&show_icons=true&count_private=true&include_all_commits=true" 
+    src="https://github-readme-stats.vercel.app/api?username=Michel9406&rank_icon=github&theme=holi&show_icons=true&count_private=true&include_all_commits=true&bg_color=000000" 
     alt="GitHub Stats"
   />
   <img 
-    width="350"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michel9406&layout=compact&langs_count=7&theme=holi" 
+    width="340"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michel9406&layout=compact&langs_count=7&theme=holi&bg_color=000000" 
     alt="Top Languages"
   />
 </div>
